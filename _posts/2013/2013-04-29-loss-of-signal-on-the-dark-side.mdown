@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Loss Of Signal on the Dark Side
+date:   2013-04-29 20:07:31
+comments: true
+categories: startups
+tags: [strategy, founder life]
+---
+
+<iframe width="100%" height="166" style="margin-bottom: 20px;" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F85965378">
+</iframe>  
+   
+There's been a few times in my life after running a marathon of some sort when I've reached a milestone and I feel dizzied, starring at the leaves rustling in the wind - and I notice time has stopped. I've done everything I can with my limited powers to make something happen - I've poured everything I have into it... **everything** - and now the moment of truth has come. Have we finally gotten something to click, or will we have to wring more of that entrepreneurial "magic" out of our brain's heart to hack some shit together to make it to the next moment of truth. During this phase, it's really hard to exist in social circles outside the startup world. Everyone knows you've gone bat-shit crazy, left social norms behind, and started a company that is supposed to change the world... or something like that.
+
+Anytime someone has asked me how things are going, the response is usually a sigh and something like, "Things are going well... we've got a lot of promising things in the pipeline... and we're just waiting and can't really talk about anything." Which **sucks**. During one of these conversations this weekend, someone made a comparison that really stuck out, "it's like you guys are going around the dark side of the moon."
+
+This immediately brought back memories of all of the space facts I memorized when I was a kid. When most people think of the Apollo missions, Neil and Buz's first manned lunar landing is typically thought of first. But there are tons of other stories during the moon missions that were arguably, just as monumental and moments when all of NASA held it's breath. [Apollo 8](http://en.wikipedia.org/wiki/Apollo_8) was the first mission to truly "visit" the moon, in the sense that the crew entered lunar orbit and came less than 100 miles to the lunar surface. In true startup spirit, the mission was planned last minute and not announced publicly until just 40 days before launch. The original mission for Apollo 8 was cancelled due to long delays in production of the first Lunar Module, so NASA administrators whipped up the unplanned "C-Prime" mission to circumnavigate the moon. To be successful, the crew would have to coordinate carefully with Mission Control, the on board guidance computer ([AGC](http://en.wikipedia.org/wiki/Apollo_Guidance_Computer)) with all of it's 2048 *words* of RAM, and a freaking sextant to sight stars. If they failed to burn the engine for the precise amount of time, the crew could enter a highly elliptical orbit or be flung into deep space. To heighten the anxiety, the start of the engine burn that would insert them into lunar orbit would begin right at Loss of Signal (LOS) - a period of about 10 minutes when the crew could not communicate with earth as they rounded the far side of the moon.
+
+This is the definition of maxing out the "Go big or go home" lever: maximum effort + maximum risk = maximum reward. I'm trying to immagine the emotion that ran through the veins of Jim, Frank, Bill, and everyone in mission control as the seconds ticked down to LOS and the lunar insertion burn. I immagine what I feel with Ginkgotree is a minuscule taste of what they felt in that last moment when their lives, the work of hundreds of thousands of scientists and engineers, and the hope of a nation, all hung in the balance during those 10 minutes of LOS.
+
+It's scary as hell. But the thing is... how many times will I experience this in my life? Three times? Twice... once? Moments when you compress years of hard work, risk, financial sacrifice, and emotional drain into a single moment are far and few between. As our team rounds the dark side of the moon of our first flight, I'm beginning to realize that when the engine stops and the noise quiets, I won't feel an immediate urge to run around and scream and bounce of the walls. I'm looking forward to those 10 minutes of LOS when we just get to stare at the dark side of the lunar surface that so few have seen - and appreciate how far we've come and hat we've accomplished. Then, when the earth rises, we can radio home the news to everyone... or figure out how to deal with being flung into deep space, of course.
+
+![Apollo 8 Earth Rise]({{site.root_url}}/images/posts/apollo-8-earth-rise.jpg "Apollo 8 Earth Rise")

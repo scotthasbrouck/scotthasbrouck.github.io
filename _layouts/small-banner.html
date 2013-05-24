@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+
+    <body>
+
+      {% include navigation.html %}
+
+      <!-- image banner -->
+      <div class="container page-image" id="small-page-image">
+        <h3 class="palette palette-night-dark image-callouts" id="image-callout-name">Scott Hasbrouck</h3>
+        <div class="palette palette-night-dark image-callouts" id="image-callout-title">
+          Detroit founder &amp; hacker<br />
+          ceo <a href="http://www.ginkgotree.com/" target="_blank" class="btn btn-mini">@ginkgotree</a>
+        </div>
+        <div id="image-location-name" class="palette palette-silver">
+          <strong><a href="http://en.wikipedia.org/wiki/Pompeii" target="_blank">Pompeii, Italia</a></strong>
+        </div>
+      </div>
+      <!-- end image banner -->
+      
+      {% include stripe.html %}
+
+      <!-- content -->
+      <div class="container">
+        <div class="site">
+          <div class="header">
+          </div>
+   
+            {{ content }}
+
+            {% include footer.html %}
+        </div>
+      </div> <!-- /container -->
+
+      <!-- Load JS here for greater good =============================-->
+      {% include javascript.html %}
+
+    </body>
+</html>

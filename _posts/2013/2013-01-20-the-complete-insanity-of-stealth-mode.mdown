@@ -1,0 +1,36 @@
+---
+layout: post
+title:  The Complete Insanity of "Stealth Mode"
+date:   2013-01-20 09:50:31
+comments: true
+categories: startups
+tags: [strategy, ideas]
+---
+
+One of the best ways to fail as an entrepreneur is to go blow a few grand setting up a corporation, label yourself CEO, and then spend months not telling anyone what the hell you're working on out of fear that someone will "steal your idea."
+
+This fear is **entirely** rooted in the idea that whatever you have in your head (that you think is a great idea) is too easy for someone else to copy.
+
+Just, **stop**.
+
+Do you really think NO ONE has tried your idea before? Trust me, they have. So why have you not heard of them? Why didn't it work for them?
+
+Simple. **They failed in execution**.
+
+Entrepreneurship is hard. Take however hard you think it's going to be, and multiply it by 1000. I like Elon Musk's description of it best: "Being an entrepreneur is like eating glass and staring into the abyss of death." If you're doing this for fame and money, turn back now, because you won't make it. You've **got** to be doing this for something bigger than that. Call it love, secret sauce, or just plain stupidity... The majority of your early days spent as an entrepreneur will feel like failures. Your friends and family won't understand, and you'll probably even loose respect from many of them. In the midst of all of this hopelessness, you'll be required to work long hours, fight certain death, learn faster than you ever, and build something that is more beautiful and elegant than 99% of software products.
+
+So you're screwed right? Someone else is already building what you wanted to build, it's going to be a long battle to the death, and they're probably further along than you. No, you're not screwed. Let's think about this from a few different aspects.
+
+First, you're not going to have a clue about what people want without talking to them. **You can't do this in stealth mode!**
+
+![Chuck Norris Stealth Mode]({{site.url_root}}/images/posts/chuck-norris.jpg)
+
+Are you really so pompous to think that you alone can figure out exactly what an entire market of people want? If you do, **you're going to fail**. Distance yourself from your 'great idea,' and merley use it as a launch pad to have a ton of conversations to **find a market**! People are sick and tired of large companies that only pretend to care about what they want. If you find a market, and you truly listen to them, then you've already got a leg up on your competition.
+
+Second, you're going to succeed because  you find an unfair advantage against the competition, not because you got to the idea first. For every great web app out with traction and a large user base, there's a ton shitty web apps that tried the same thing. For whatever reason, most startups (and pretty much all large corporations) can't build quality software that is a joy to use to save their life. If your team has a good designer/UX guy, an agile development process, and you understand your market deeply, you probably already have enough of an unfair advantage to beat anyone who wants to 'copy your idea.'
+
+Lastly, competition = market validation. You know that whole part about entrepreneurship being hard? If you seriously can't find anyone doing anything even remotely close to what you're building, it's going to be even harder. It's probably an indirect indication that you're doing something too innovative, and jumping ahead of the market. The fact is, people are doing something to fix the problem you're trying to solve. The current way that your future users are fixing the problem now may even involve duck tape and pencils, but trust me, they're out there.
+
+Changing human behavior is next to impossible. The rate limiting step that keeps society from moving forward is people, not technology. Humans like to go with the crowd, and crowds move slowly. We get set in our ways based on the mass of people we surround ourselves with, and question others' opinions that differ... even when those opinons are solidly based in facts. Because of this, you need to focus on the simplest execution possible. Only move a few steps ahead of what your futures users are doing now to solve their problem. You may be facing a long battle to convince your first users that your solution is better than what they have been doing their entire life. And once again, you can't figure out any of this in stealth mode. You'll get stuck in a vacuum, obsessed with how "genius" your own ideas are, and probably build a complicated solution that is decades ahead of how quickly people move.
+
+So here's to sharing your ideas and great conversations!

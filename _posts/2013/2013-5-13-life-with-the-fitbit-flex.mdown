@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Life with the Fitbit Flex: Week 1"
+date:   2013-05-13 18:00:00
+comments: true
+categories: life
+tags: [health, food]
+---
+
+### The Best Activity Tracker on the Market ###
+
+I've been keeping my eye on activity trackers every since the Jawbone Up [back in 2011](http://www.macworld.com/article/1163367/jawbone_up_wristband.html). The *idea* of an activity tracker seemed amazing, but the more I read about the current offerings, the more I realized they just weren't ready yet. In order for an activity tracker to truly work, it's got to be almost transparent: you forget your wearing it, battery life of at least a week, and it **must** sync wirelessly and automatically. Otherwise, I knew it was just going to become another one of those gadgets that I never use.
+
+#### Jawbone UP ####
+**Cost: $129**
+
+The UP showed a lot of promise after it was relaunched following the numerous QC problems with the first generation. Specifically, it sports a 10 day battery, and (according to reviews) it is simple to take on and off and is very comfortable. But it is still missing one major feature: you have to take it off and plug it into your phone's audio jack to sync it. Sorry, but I'm not going to do that every single time I want to see my progress. Having to plug in the UP *completley* destroys the whole gamification of excercise. I want to be able to grab my phone, hop on a web app when I'm at work, or better yet, just look at the thing on my wrist to know a "score" of some type.
+
+#### Nike Fuel Band ###
+**Cost: $149**
+
+The Nike Fuel Band has a lot more *pizazz* than any other activity tracker on the market, given that it has an actually display in the form of about 100 LEDs. Unfortunatley, all those LEDs drain the battery in 3-4 days. I really need my tracker to last through at least the work week. Then I don't have to think about charging it until the weekend. Syncing is a bit better than the UP with the fuel band, except for the fact that you have to go through an actual "scyning" process by holding down the button on the device. I don't want to do that. Again, if I have to sync the device to my phone through a manual process, I know I won't use it.
+
+#### Enter the Fitbit Flex: An Activity Tracker Done **Right** ####
+**Cost: $99**
+
+When I heard about the Fitbit Flex being announced for CES 2013, not only was I excited that *someone* finally got the recipe right, but I was also geeked that I happened to be going to CES again this year. The second I tried on the Flex, I knew that this was it. 1) long 5-6 day battery life 2) automatic wireless syncing to my Mac or iPhone and 3) it was small, light, and I barley noticed I was wearing it. Better yet, Fitbit was smart enough to realize that anything worn on your wrist while doing physical activities would get beat up fairly quickly. The actually electronics is a small bean shaped pod that pops in and out of the replacable wrist band. A pack of 3 wrist bands can be purchased for just $15. To top it off, they were also smart enough to design a metal clasp with no moving parts - this thing will last for a long time. I fully expect my Flex to last until the battery simply does not hold a charge.
+
+#### First few days with the Flex ####
+![My Fitbit Flex]({{site.root_url}}/images/posts/fitbit-flex-1.jpg)
+
+I've now been using the Flex for 3 days, and my first reaction is that it's really unbelievable how much the gamification of having a step score makes me concious of my activity. The first day I wore it, I went on a much longer run than normal to get my score up to 15k steps! When you reach your daily goal, the band vibrates, and sparkels the LEDs like fireworks - it really makes you feel achieved.
+
+Syncing works surprisingly well. If I leave the Fitbit app open and start walking around, I can actually watch it count my steps with only a few seconds of lag. Not only that, but if I wave my arm around the Flex is very good about not registering flase steps. This really helps when I look at my step score - I know that the number of steps is actually reasonably accurate. Otherwise, I'd sit there and wonder if the number is really steps that I took, or me typing code and emails all day long.
+
+#### Some Things I Plan On Looking For In the Coming Weeks####
+
+* I'd like to measure the accuracy and precision of the Flex. I have a few ideas about doing this - perhaps comparing the distance walked with a running/walking app that is GPS based or comparing it with an old school pedometer
+* The real-life average battery life. So far, 3 days in, it is still above 50%
+* Finding ways of making it work while cycling. I plan on putting the bean in my pocket or side of my bike shorts - looking forward to see how well it works
+
+Overall, my first impressions are very positive. Lida bought me a pre-sale spot in line for Christmas months ago, and I can definatley say it is one of the better tech gifts I've ever gotten. There's a coolness factor to it, but unlike a lot of other gadets, I can tell I will be using this a lot... not to mention I'll probably be healthier for it &#9786;

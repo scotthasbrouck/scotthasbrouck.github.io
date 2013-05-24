@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Your 'Great Idea' Is Not All That 'Great'"
+date:   2012-11-23 15:28:31
+comments: true
+categories: startups
+tags: [strategy, ideas]
+---
+
+As much as you and I might like to think otherwise, predicting human behavior is pretty damn hard to do. Casinos make billions on the fact that an individual outcome of a chaotic system as simple as a dice roll cannot be predicted. So it seems insanely audacious to propose building a business around the idea that you'll be able to predict the desires of a system as complex as a homo sapien. But people certainly succeed in doing this. And it's by no means an isolated phenomenon. So what gives?
+
+I think I can shed some light on the issue in a short series of blog posts based on my 3-ish years of experience.
+
+Here goes nothin'...
+
+#### Build it and they won't come ####
+Meet the [Grimes'](http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html?pagewanted=all&_r=0). They quit their jobs and blew through $200,000 trying to predict what kind of apps iPhone users would buy. They made $5,000 last year in revenue. That's a $195,000 loss... bootstrap suicide. plain and simple. Of course, they have about three of every Apple device imaginable. So if starting your "app kingdom" is an excuse to buy the entire stock from your local Apple Store as a "business expense," then by all means, do what they did and don't ever read anything I have to say ever again.
+
+Unfortunately, when people hear of indie developers making six figures a year from an app they coded in a month, they jump to the conclusion that they just need to make their genius idea, and they'll be on the gravy train also. Here's the thing about the vast majority of these indie developers (myself included). We didn't quit our day jobs first. I wrote the first version of [PaperDesk](http://mypaperdesk.com) in a month on a 3 year old Macbook with dents on the side and a few rattly keys. At the time, I was still pursuing a career in chemistry. I didn't quit my "day job" to go build an app. I took advantage of the fact that at the time, there were only about 3000 native apps for the iPad (this was also at a time when most people thought the iPad would flop). I saw a lack of good note taking apps and burned the midnight oil (without throwing away my career path of the time).
+
+#### A quick detour about the state of the app store ####
+The fact is, the app store is a very different beast today. There are now over 100 times as many apps on the store as there were when I launched PaperDesk. I hate to break the news to you, but the days of being noticed just by publishing an app are over. There are really only a few chances you have at launching a top app. 1. You have an enormous marketing budget, and/or a few posts lined up on a relevant, 2. You are filling a niche market and getting in the top 100 of a category in the app store is NOT your marketing plan (the app you're launching is just a part of your startup), or 3. You spend months and months slaving away, making an app that is in the top .1% of apps quality-wise, and take a gamble that Apple will feature you in the App Store (I would not recommend this approach). Don't worry, there's still plenty of hope for your startup. We'll get back to this topic in a week or two in a post I'm working on about the State of the App Store. Signup to stay tuned.
+
+#### Getting back to predicting human behavior ####
+You're sitting at your boring day job, dreaming of your great app idea. You know that this idea is what everyone is waiting for. You've even taken 3 of your best friends out for beers, and they all said they'd buy your app. You just need to make your app and all will be golden. So you spend months making your app the best it can be. You pay a designer, you think of every possible feature anyone could ever want in your app. You've spent 5 months building this thing every night when you get home from work. Now, you're ready to launch! Are you ready for the number one mistake most novice entrepreneurs make?...
+
+#### Don't spend months building your app, Just get SOMETHING out the door! ####
+You don't need to speed months building something. Focus on the minimum viable product, and slash everything else. Why? I mean, you need to have the best app out there right? Here's the thing, remember the difficulty about predicting human behaivior? Unless your business plan includes being Steve Jobs, you're probably going to fail miserably at trying to predict everything your users-to-be will want to do with your app. When I first launched PaperDesk, all it could do was type text, draw in one color, and share single pages of notebook as a jpg image. At the time there was almost nothing on the store that could combine typed text and drawing, so the app shot all the way to the number 2 iPad app for the US store. This resulted in hundreds of emails **telling me what to build next**. If I had spent months, and not weeks building the app, competitors would have made it into the store before me, and I would have spent most of my time building features no one would use. So if you're fortunate enough to have found a niche market that has a problem to be solved, just focus on executing a small set of features very well, and get it out the door.
+
+#### Most Successful Products CHANGED DRASTICALLY From Their Original 'Idea' ####
+I've never met a 'successful' (whatever the hell that means) entrepreneur who made it big with the original idea they had. Usually, the original idea is either way off-base from what their eventual users actually want, or it's not focused on a small enough of a market. What is your end goal in launching a startup? For many people (myself included), it's to become independent and to make the world an incrementally better place. With that goal in mind, I would much rather take a shot at a smaller idea that has an infinitely better chance to become profitable and better people's lives, than trying to build the next Facebook right from the get-go. You need to THINK SMALL. Why? Every widely successful startup initial began with a small idea. AirBNB started with *literal* [air mattresses](http://99u.com/articles/6920/Airbnbcom-Necessity-Begets-Creativity) in peoples homes specifically targeted towards conference attendees. Today, they are one of YCombinator's most successful investments. Starting small allowed them to gain the feedback necessary to get right something that so many services had gotten wrong.
+
+#### Think Small, Ship Early, and Iterate Quickly ####

@@ -1,0 +1,25 @@
+<div class="span4 palette palette-concrete" id="post-sidebar">
+	<!-- tiny letter form -->
+	<form id="tiny-letter-subscribe-post" class="palette palette-success-dark" action="https://tinyletter.com/scotthasbrouck" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/scotthasbrouck', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+		<p><span class="fui-mail-24"</span> updates on hacking &amp; startups</p>
+		<p>
+			<input type="text" style="width:122px;margin-right:10px;" placeholder="email" name="email" id="tlemail" />
+			<input type="hidden" value="1" name="embed"/><input type="submit" class="btn btn-large" id="tiny-letter-subscribe-btn" value="Subscribe →" />
+		</p>
+	</form>
+
+	<!-- twitter -->
+	<a class="twitter-timeline" href="https://twitter.com/scotthasbrouck" data-widget-id="333411225272713216">Tweets by @scotthasbrouck</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+	<div id="post-sidebar-categories">
+		<h4>Startups</h4>
+		<ul>
+			{% include startup_tags.html %}
+		</ul>
+		<h4>Life</h4>
+		<ul>
+			{% include life_tags.html %}
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,31 @@
+<!-- navigation -->
+<div class="navbar navbar-inverse narbar-fixed-top palette palette-night" id="main-nav">
+  <div class="navbar-inner">
+    <div class="container text-center">
+      <ul class="nav">
+        <li class="active"><a href="/">{{ site.name }}</a></li>
+        <li><a href="#">startups</a>
+          <ul>
+            {% include startup_tags.html %}
+          </ul>
+        </li>
+        <li><a href="#">life</a>
+          <ul>
+            {% include life_tags.html %}
+          </ul>
+        </li>
+        <li><a href="{{site.url_root}}/about">about</a></li>
+        <li><a href="{{site.url_root}}/portfolio">portfolio</a></li>
+        <li><a href="#">connect</a>
+          <ul>
+            <li><a href="mailto:scott@ginkgotree.com">&thetasym; email</a></li>
+            <li><a href="http://twitter.com/scotthasbrouck" target="_blank">&thetasym; twitter</a></li>
+            <li><a href="http://www.linkedin.com/pub/scott-hasbrouck/1b/47b/492" target="_blank">&thetasym; linkedin</a></li>
+            <li><a href="http://github.com/scotthasbrouck" target="_blank">&thetasym; github</a></li>
+            <li><a href="http://about.me/scotthasbrouck" target="_blank">&thetasym; about.me</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

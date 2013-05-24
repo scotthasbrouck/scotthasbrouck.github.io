@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+
+    <body>
+
+      {% include navigation.html %}
+
+      <!-- image banner -->
+      <div class="container page-image" id="main-page-image">
+        <h3 class="palette palette-night-dark image-callouts" id="image-callout-name">Scott Hasbrouck</h3>
+        <div class="palette palette-night-dark image-callouts" id="image-callout-title">
+          Detroit founder &amp; hacker<br />
+          ceo <a href="http://www.ginkgotree.com/" target="_blank" class="btn btn-mini">@ginkgotree</a>
+        </div>
+        <form id="tiny-letter-subscribe" class="palette palette-success-dark image-callouts" action="https://tinyletter.com/scotthasbrouck" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/scotthasbrouck', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+          <p><span class="fui-mail-24"</span> updates on hacking &amp; startups</p>
+          <p>
+            <input type="text" style="width:140px;margin-right:10px;" placeholder="email" name="email" id="tlemail" />
+            <input type="hidden" value="1" name="embed"/><input type="submit" class="btn btn-large" id="tiny-letter-subscribe-btn" value="Subscribe →" />
+          </p>
+          <a href="https://twitter.com/scotthasbrouck" class="twitter-follow-button" data-show-count="true">follow @scotthasbrouck</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </form>
+        <div id="image-location-name" class="palette palette-silver">
+          <strong><a href="http://en.wikipedia.org/wiki/Pompeii" target="_blank">Pompeii, Italia</a></strong>
+        </div>
+      </div>
+      <!-- end image banner -->
+      
+      {% include stripe.html %}
+
+      <!-- content -->
+      <div class="container">
+        <div class="site">
+          <div class="header">
+          </div>
+   
+            {{ content }}
+
+            {% include footer.html %}
+
+        </div>
+      </div>
+
+      <!-- Load JS here for greater good =============================-->
+      {% include javascript.html %}
+
+    </body>
+</html>

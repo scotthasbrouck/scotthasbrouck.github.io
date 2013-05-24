@@ -1,0 +1,17 @@
+---
+layout: small-banner
+---
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div class="row">
+	<div class="span7" id="post">
+		{{ content }}
+
+		{% include disqus.html %}
+
+	</div>
+
+		{% include sidebar.html %}
+
+</div>

@@ -1,0 +1,40 @@
+---
+layout: post
+title:  My Story of Launching a Top 10 Paid iPad App
+date:   2013-01-08 17:47:31
+comments: true
+categories: startups
+tags: [strategy, growth]
+---
+
+I'm fairly certain that everyday insanely great opportunities pass by me because *I'm not paying attention*, or decide to ignore them for whatever reason I deem logical at the time. Unfortunately, this can be one of the side-effects of attempting to maintain a high Signal-To-Noise Ratio (SNR) between **making epic things**, and toiling away at things that really don't matter very much. You often miss insanely great opportunities.
+
+Every once in a great while, I get it right though.
+
+The last semester of my senior year of college was one of those times. It was early 2010, and the interwebs were ripe with controversy over the pending doom of Steve Jobs latest "insanely great" product. For whatever reason, I decided that the iPad was going to be huge. I looked back at what I considered a missed opportunity to build a great app when the iPhone came out, and started hacking away.
+
+Well, before I started hacking away, I spent a few days figuring out what kind of app I wanted to build. Looking at my situation I knew I only had a few months, so I only spent a week or two talking to some other students to figure out what to build. Without mentioning the iPad first (because I felt like mentioning "iPad" would immidiatley result in a ton of feedback I didn't care about), I simply asked something like, "Hey, if you had a really thin computer with a touchscreen, what would you use it for?" The number one response was to take notes. So there we go, let's go build that. What the hell, worse-case-scenario it's maybe a month or two of 16 hour work-days. Either way, I'll come out the other end a wiser Objective-C dev.
+
+Considering this post is primarily about my strategy and experience, I'll skip past the details of developing version 1 of PaperDesk. However, I will say I cut the list of MVP features to about 70% of what I had on the piece of paper laying on my desk. That was the best decision I made. Because of that decision, I finished the app and submitted it when there was still a huge lack of functional note-taking apps.
+
+![PaperDesk Screenshot]({{site.url_root}}/images/posts/paperdesk-ipad-screenshot.jpg "PaperDesk version 1.0")
+
+### PaperDesk, version 1.0! 4 Weeks after learning how to 'properly' use UITableView and Core Graphics ###
+
+It didn't do much: type in one font, draw, erase, and email snapshots of the current page. The quality of the drawing was also not the best. I was connecting UITouch locations with straight lines using Core Graphics, (later switching this to Belzier curves and OpenGL ES).
+
+The app review process took slightly more than a week, and initial sales were not bad at all at around $50 to $100 per day. For a college student, that kind of residual income was unheard of for me. I didn't expect this to last, as it began to taper off when the app slid down in New Productivity apps.
+
+### But then one day someone in the app review team at Apple did me a solid. ###
+
+I'll never forget the Tuesday after releasing PaperDesk when I opened iTunes and saw the PaperDesk icon smack dab in the middle of the New and Noteworthy section. I refreshed the screen about nine times to make sure I wasn't going crazy. Sure enough, I had been featured in the App Store.
+
+The following weeks were a roller coaster ride. My fiancé (Lida) and I were to be married in a few weeks, we were **both** graduating from college, and... we were leaving the country for 6 weeks after saving for a year for a monster round-the-world honeymoon. Over the next few days I saw PaperDesk climb in rank to max out at the number 2 overall paid iPad app in the US. PaperDesk stayed in the top 10 apps for about two weeks, during which, I was selling on average 1000 copies per day at $1.99 (minus Apple's 30% cut of course).
+
+Before Lida and I left for our trip, I pushed out 3 updates with bug fixes and new features, answered 50 to 100 emails per day, finished a Chemistry degree, and lined up a friend to take care of bug fixes and support while I was gone. It was one of the most exhilarating times in my life, and to this day, still can't believe that something I hacked together in a month was found so useful by so many people.
+
+### A Grain of Salt ###
+
+Ok. So, the day of submitting an App as MVP-ish as PaperDesk 1.0 and being featured in the App Store are long over. Quite frankly, even submitting an app better than all of your competitors in every way *still* will likely not lead to being featured now a-days. The fact is, the early days of the iPad App Store were a lake with numerous patches of very thin ice. It was super-easy to break through. Since then, the ice has gotten very, very thick. So the take-home from this is to **not go home and build another damn iPad app**.
+
+This is really a lesson in spotting lakes with patches of thin ice. Usually these patches are way to small to attract this big boys, but they're plenty large enough to sustain a lifestyle business, micropreneur, or maybe even a small startup. So keep an eye out for those insanely great opportunities that require just a tiny bit of effort to break the ice and render a huge effect.

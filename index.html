@@ -1,0 +1,25 @@
+---
+layout: default
+title: scott hasbrouck
+---
+
+<div class="row">
+	<div class="span6">
+		<h3>New? Start Here</h3>
+		<ul class="posts">
+		{% for post in site.categories.startups limit:5 %}
+			<li><a href="{{ post.url }}" style="font-size:18px;">{{ post.title }}</a> &Phi; <small class="muted">{{ post.date | date_to_string }}</small></li>
+		{% endfor %}
+		</ul>
+		<a href="/startups.html">more on startups &#8594;</a>
+	</div>
+	<div class="span6">
+		<h3>Recent Posts</h3>
+		<ul class="posts">
+		{% for post in site.posts limit:5 %}
+		  <li><a href="{{ post.url }}" style="font-size:18px;">{{ post.title }}</a> &Phi; <small class="muted">{{ post.date | date_to_string }}</small></li>
+		{% endfor %}
+		</ul>
+		<a href="/archive.html">all posts &#8594;</a>
+	</div>
+</div>
