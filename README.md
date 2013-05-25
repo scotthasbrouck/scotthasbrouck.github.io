@@ -1,2 +1,0 @@
-scotthasbrouck.github.io
-========================
