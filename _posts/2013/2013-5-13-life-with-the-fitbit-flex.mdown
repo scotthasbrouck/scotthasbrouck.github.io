@@ -7,8 +7,6 @@ categories: life
 tags: [health, food]
 ---
 
-### The Best Activity Tracker on the Market ###
-
 I've been keeping my eye on activity trackers every since the Jawbone Up [back in 2011](http://www.macworld.com/article/1163367/jawbone_up_wristband.html). The *idea* of an activity tracker seemed amazing, but the more I read about the current offerings, the more I realized they just weren't ready yet. In order for an activity tracker to truly work, it's got to be almost transparent: you forget your wearing it, battery life of at least a week, and it **must** sync wirelessly and automatically. Otherwise, I knew it was just going to become another one of those gadgets that I never use.
 
 #### Jawbone UP ####

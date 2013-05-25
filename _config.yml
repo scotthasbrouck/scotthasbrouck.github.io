@@ -1,3 +1,5 @@
 name: scott hasbrouck
 pygments: true
 url: "http://spectra.io"
+paginate: 5
+cateogry_title_prefix: 'on '
