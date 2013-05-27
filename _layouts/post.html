@@ -6,6 +6,15 @@ layout: small-banner
 
 <div class="row">
 	<div class="span7" id="post">
+		
+		<div class="tagsinput" id="post-tags">
+			{% for tag in page.tags %}
+			<span class="tag">
+				{{ tag }}
+			</span>
+			{% endfor %}
+		</div>
+
 		{{ content }}
 
 		{% include disqus.html %}

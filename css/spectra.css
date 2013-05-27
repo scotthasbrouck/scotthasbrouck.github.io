@@ -125,6 +125,15 @@ body {
 
 /* posts */
 
+#post-tags {
+	height: auto !important;
+	margin-bottom: 10px;
+}
+
+#post-tags span {
+	cursor: default !important;
+}
+
 #post-sidebar {
 	margin-left: 20px;
 	padding: 15px;
