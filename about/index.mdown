@@ -1,0 +1,15 @@
+---
+layout: post-no-date
+title: about
+date: 2012-01-01 12:00:00
+---
+
+Hi, I'm Scott. I grew up in Michigan, and have spent most of my life here. I've tinkered with lots of different things in my life, and have stuck with a few of those things long enough create value with them. I've been writing code since I was 10, and started flying airplanes a year after that. I wasn't a scientist on "paper" until college. But looking back, I've pretty much been doing science one way or another since we moved from the city when I was 7. I think that's because I didn't have many friends [so I spent a lot of time outside](http://www.youtube.com/watch?feature=player_detailpage&v=cm_iv_lUh6Y#t=107s) in the woods looking at insects, or trying to figure out how to engineer and build things in my parent's basement.
+
+I was set on being an astronaut when I was a kid. I spent several of my summers volunteering at the [Michigan Space and Science Center](http://heroicrelics.org/mssc/) (closed in 2003, and converted to a "community events" center by Jackson Comm. Coll., dumb). One of my favorite childhood moments was when I got to help change the light bulbs in the Apollo 9 capsule. Seriously, how many kids get to stick their head into an Apollo capsule?
+
+In college, I studied Chemistry with an emphasis on Physical Chemistry. My undergraduate thesis was about a year long project that was the result of me tinkering around with different ways to measure and model chemical chaos. I also spent a summer at the University of Georgia in [Dr. Michael Duncan's](http://maduncan.myweb.uga.edu/) lab, where I later worked on a PhD for about 2 years. My studies focused on vibrational and electronic spectroscopy of protonated organic molecules and metal center cations... which meant 90% of my time was spent fixing lasers, high vacuum equipment, and home made duct-taped aparatuses. The other time was spent doing actual measurement.
+
+I also met my wife, Lida, in college. We're both chemists by school. Her, with dreams of being a medical doctor, and me with dreams of being an academic. Which later changed once we were bitten by the bug of founding a startup.
+
+During grad school we got our first taste of successful entrepreneurship with [PaperDesk](http://www.mypaperdesk.com). In the long run, I decided that I loved education (from all my years spent as a TA in undergrad and grad school) and starting companies a lot more than fixing finicky lasers all day. And Lida decided she didn't want to fight tooth and nail for an acceptance letter to med school and work 90 hour weeks. So after a weekend of diving with my wife and co-founder, Lida, we finally came to the conculsion to put in my notice with my PhD advisor. And thus Ginkgotree was born...
