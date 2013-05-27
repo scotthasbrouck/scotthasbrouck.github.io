@@ -61,7 +61,7 @@ module Jekyll
 		# same as the base class, but includes the tag value
 		def initialize(config, page, all_posts, tag, num_pages = nil)
 			@tag = tag
-			title_prefix = config['cateogry_title_prefix'] || 'all posts on '
+			title_prefix = config['tag_title_prefix'] || 'all posts on '
 			@title = "#{title_prefix}#{tag}"
 			super config, page, all_posts, num_pages
 		end

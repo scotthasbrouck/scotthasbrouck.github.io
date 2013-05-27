@@ -61,7 +61,7 @@ module Jekyll
 		# same as the base class, but includes the category value
 		def initialize(config, page, all_posts, category, num_pages = nil)
 			@category = category
-			title_prefix = config['cateogry_title_prefix'] || 'all posts on '
+			title_prefix = config['category_title_prefix'] || 'all posts on '
 			@title = "#{title_prefix}#{category}"
 			super config, page, all_posts, num_pages
 		end
