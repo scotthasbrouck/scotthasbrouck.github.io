@@ -3,3 +3,4 @@ pygments: true
 url: "http://spectra.io"
 paginate: 5
 category_title_prefix: 'on '
+topic_title_prefix: 'on '

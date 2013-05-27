@@ -1,0 +1,49 @@
+---
+layout: small-banner
+---
+<div class="row">
+	<div class="span9">
+		<h1>{{ paginator.title }}</h1>
+		<ul class="posts">
+		{% for post in paginator.posts %}
+		<li>
+			<a href="{{ post.url }}" style="font-size:18px;">{{ post.title }}</a> &Phi; <small class="muted">{{ post.date | date_to_string }}</small>
+			<div class="well well-small">
+				{{ post.excerpt }}
+			</div>
+		</li>
+		{% endfor %}
+		</ul>
+	</div>
+</div>
+
+<!-- Pagination links -->
+<div class="pagination">
+	<ul>
+		{% if paginator.previous_page %}
+			{% if paginator.previous_page ==  1 %}
+				<li class="previous"><a href="/{{ paginator.tag }}">&#10094;</a></li>
+			{% else %}
+				<li class="previous"><a href="/{{ paginator.tag }}/{{paginator.previous_page }}">&#10094;</a></li>
+			{% endif %}
+		{% else %}
+			<li class="previous"><a href="#">&#10094;</a></li>
+		{% endif %}
+		{% for count in (1..paginator.total_pages) %}
+			{% if count == paginator.page %}
+				<li class="active"><a href="#">{{ count }}</a></li>
+			{% else %}
+				{% if count != 1 %}
+					<li><a href="/{{ paginator.tag }}/{{ count }}">{{ count }}</a></li>
+				{% else %}
+					<li><a href="/{{ paginator.tag }}">{{ count }}</a></li>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+		{% if paginator.next_page %}
+			<li class="next"><a href="/{{ paginator.tag }}/{{ paginator.next_page }}">&#10095;</a></li>
+		{% else %}
+			<li class="next"><a href="#">&#10095;</a></li>
+		{% endif %}
+	</ul>
+</div>
