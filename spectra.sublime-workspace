@@ -5,7 +5,7 @@
 		[
 			[
 				"padd",
-				"padding-bottom"
+				"padding-top"
 			],
 			[
 				"marg",
@@ -520,34 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "about/index.mdown",
 			"settings":
 			{
-				"buffer_size": 766,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/startup_tags.html",
-			"settings":
-			{
-				"buffer_size": 159,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "about/index.html",
-			"settings":
-			{
-				"buffer_size": 82,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 2339,
+				"buffer_size": 2744,
 				"line_ending": "Unix"
 			}
 		}
@@ -712,38 +688,60 @@
 	},
 	"file_history":
 	[
-		"/Users/scott/Sites/spectra-jekyll/_includes/head.html",
-		"/Users/scott/Sites/spectra-jekyll/_posts/2013/2013-5-13-life-with-the-fitbit-flex.mdown",
-		"/Users/scott/Sites/spectra-jekyll/_includes/navigation.html",
+		"/Users/scott/Sites/spectra-jekyll/_config.yml",
+		"/Users/scott/Sites/spectra-jekyll/_plugins/generate_tag_pages.rb",
+		"/Users/scott/Sites/spectra-jekyll/_layouts/tag_index.html",
+		"/Users/scott/Sites/spectra-jekyll/startups/index.html",
 		"/Users/scott/Sites/spectra-jekyll/_includes/life_tags.html",
-		"/Users/scott/Sites/spectra-jekyll/_posts/2013/2013-04-29-loss-of-signal-on-the-dark-side.mdown",
-		"/Users/scott/Sites/spectra-jekyll/_posts/2013/2013-01-20-the-complete-insanity-of-stealth-mode.mdown",
+		"/Users/scott/Sites/spectra-jekyll/_includes/startup_tags.html",
+		"/Users/scott/Sites/spectra-jekyll/_plugins/generate_category_pages.rb",
+		"/Users/scott/Sites/spectra-jekyll/_includes/navigation.html",
+		"/Users/scott/Sites/spectra-jekyll/startups/hacking/index.html",
+		"/Users/scott/Sites/spectra-jekyll/startups/founder-life/index.html",
+		"/Users/scott/Sites/spectra-jekyll/startups/ideas/index.html",
+		"/Users/scott/Sites/spectra-jekyll/startups/strategy/index.html",
+		"/Users/scott/Sites/spectra-jekyll/life/italia/index.html",
+		"/Users/scott/Sites/spectra-jekyll/_posts/2013/2013-5-13-life-with-the-fitbit-flex.mdown",
 		"/Users/scott/Sites/spectra-jekyll/_posts/2013/2013-01-08-launching-top-10-paid-ipad-app.mdown",
-		"/Users/scott/Sites/spectra-jekyll/_posts/2012/2012-7-11-i-just-beat-the-1948-rule.mdown",
+		"/Users/scott/Sites/spectra-jekyll/_posts/2013/2013-01-20-the-complete-insanity-of-stealth-mode.mdown",
+		"/Users/scott/Sites/spectra-jekyll/_posts/2013/2013-04-29-loss-of-signal-on-the-dark-side.mdown",
+		"/Users/scott/Sites/spectra-jekyll/index.html",
+		"/Users/scott/Sites/spectra-jekyll/_plugins/generate_topic_pages.rb",
 		"/Users/scott/Sites/spectra-jekyll/_posts/2012/2012-11-23-your-great-idea-is-not-that-great.mdown",
-		"/Users/scott/Sites/spectra-jekyll/_layouts/post.html",
-		"/Users/scott/Sites/spectra-jekyll/_includes/sidebar.html",
+		"/Users/scott/Sites/spectra-jekyll/_posts/2012/2012-7-11-i-just-beat-the-1948-rule.mdown",
+		"/Users/scott/Sites/spectra-jekyll/_layouts/topic_index.html",
 		"/Users/scott/Sites/spectra-jekyll/css/spectra.css",
+		"/Users/scott/Sites/spectra-jekyll/_includes/footer.html",
+		"/Users/scott/Sites/spectra-jekyll/_layouts/default.html",
+		"/Users/scott/Sites/spectra-jekyll/portfolio/index.html",
+		"/Users/scott/Sites/spectra-jekyll/about/index.mdown",
+		"/Users/scott/Sites/spectra-jekyll/about/index.html",
+		"/Users/scott/Sites/spectra-jekyll/_site/life/2013/05/13/life-with-the-fitbit-flex.html",
+		"/Users/scott/Sites/spectra-jekyll/_layouts/post.html",
+		"/Users/scott/Sites/spectra-jekyll/life/index.html",
+		"/Users/scott/Sites/spectra-jekyll/archive/index.html",
+		"/Users/scott/Sites/spectra-jekyll/Rakefile",
+		"/Users/scott/Sites/spectra-jekyll/_layouts/Rakefile",
+		"/Users/scott/Sites/spectra-jekyll/css/flat-ui.css",
+		"/Users/scott/Sites/spectra-jekyll/_site/life/2012/07/11/i-just-beat-the-1948-rule.html",
+		"/Users/scott/Sites/spectra-jekyll/css/bootstrap.css",
+		"/Users/scott/Sites/spectra-jekyll/_layouts/post-no-date.html",
+		"/Users/scott/Sites/spectra-jekyll/_layouts/category_index.html",
+		"/Users/scott/Sites/spectra-jekyll/_layouts/small-banner.html",
+		"/Users/scott/Sites/spectra-jekyll/startups.html",
+		"/Users/scott/Sites/spectra-jekyll/_includes/head.html",
+		"/Users/scott/Sites/spectra-jekyll/_includes/sidebar.html",
 		"/Users/scott/Sites/spectra-jekyll/_includes/startup_categories.html",
 		"/Users/scott/Sites/spectra-jekyll/_includes/life_categories.html",
-		"/Users/scott/Sites/spectra-jekyll/about/index.html",
-		"/Users/scott/Sites/spectra-jekyll/portfolio/index.html",
-		"/Users/scott/Sites/spectra-jekyll/_layouts/small-banner.html",
-		"/Users/scott/Sites/spectra-jekyll/_layouts/post-no-date.html",
-		"/Users/scott/Sites/spectra-jekyll/_layouts/default.html",
 		"/Users/scott/Sites/spectra-jekyll/_includes/disqus.html",
 		"/Users/scott/Sites/spectra-jekyll/_includes/side-bar-categories",
-		"/Users/scott/Sites/spectra-jekyll/css/flat-ui.css",
 		"/Users/scott/Sites/spectra-jekyll/_site/hacking/strategy/2013/01/20/the-complete-insanity-of-stealth-mode.html",
 		"/Users/scott/Sites/spectra-jekyll/_includes/stripe.html",
 		"/Users/scott/Sites/spectra-jekyll/_includes/javascript.html",
-		"/Users/scott/Sites/spectra-jekyll/_includes/footer.html",
 		"/Users/scott/Sites/spectra-jekyll/includes/navigation.html",
-		"/Users/scott/Sites/spectra-jekyll/_config.yml",
 		"/Users/scott/Sites/spectra-jekyll/_site/life/health/2013/05/13/life-with-the-fitbit-flex.html",
 		"/Users/scott/Sites/spectra-jekyll/_posts/2013-5-13-life-with-the-fitbit-flex.mdown",
 		"/Users/scott/Sites/spectra-jekyll/_posts/2012-11-23-your-great-idea-is-not-that-great.mdown",
-		"/Users/scott/Sites/spectra-jekyll/css/bootstrap.css",
 		"/Users/scott/Sites/spectra-jekyll/_posts/2013-04-29-loss-of-signal-on-the-dark-side.mdown",
 		"/Users/scott/Sites/spectra-jekyll/_posts/2013-01-08-launching-top-10-paid-ipad-app.markdown",
 		"/Users/scott/Sites/spectra-jekyll/_posts/2013-05-11-your-great-idea-is-not-that-great.markdown",
@@ -817,29 +815,7 @@
 		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/application.js.erb",
 		"/Users/scott/Sites/ginkgotree/app/controllers/asset_controller.rb",
 		"/Users/scott/Sites/ginkgotree/app/models/heading.rb",
-		"/Users/scott/Sites/ginkgotree/app/models/book.rb",
-		"/Users/scott/Sites/ginkgotree/app/controllers/course_controller.rb",
-		"/Users/scott/Sites/ginkgotree/lib/copymagic.rb",
-		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/CourseCreator.js.erb",
-		"/Users/scott/.bash_profile_includes/bundle.sh",
-		"/Users/scott/.bash_profile_includes/iterm.sh",
-		"/Users/scott/.bash_profile",
-		"/Users/scott/Sites/ginkgotree/app/assets/stylesheets/readerview.css.scss.erb",
-		"/Users/scott/Sites/ginkgotree/app/assets/stylesheets/login.css.scss.erb",
-		"/Users/scott/Sites/ginkgotree/app/assets/stylesheets/coursecreator.css.scss.erb",
-		"/Users/scott/Sites/ginkgotree/app/views/static/_course_creator.html.erb",
-		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/AssignStudentSection.js.erb",
-		"/Users/scott/Sites/ginkgotree/app/models/course.rb",
-		"/Users/scott/Sites/ginkgotree/config/initializers/copymagic.rb",
-		"/Users/scott/Sites/ginkgotree/app/models/ccc_order.rb",
-		"/Users/scott/Sites/ginkgotree/app/assets/stylesheets/uploadbox.css.scss.erb",
-		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/ToolTips.js.erb",
-		"/Users/scott/Sites/ginkgotree/app/models/packet.rb",
-		"/Users/scott/Sites/ginkgotree/app/models/document.rb",
-		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/models/Copyright.js.erb",
-		"/Users/scott/Sites/ginkgotree/app/views/static/_asset_creator.html.erb",
-		"/Users/scott/Sites/ginkgotree/app/models/user.rb",
-		"/Users/scott/Sites/ginkgotree/db/migrate/20130122221151_add_payment_deffered_to_courses.rb"
+		"/Users/scott/Sites/ginkgotree/app/models/book.rb"
 	],
 	"find":
 	{
@@ -864,9 +840,34 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"categories",
+			"topic",
+			"Topic",
+			"Category",
+			"category",
+			"Category",
+			"category",
+			"pagination_enabled",
+			"fui-arrow",
+			"arrow",
+			"fui",
+			"pagination",
+			"fui-arrow",
+			"pagination",
+			"pagin",
+			"pagination",
+			"fui-arrow",
+			"arrow",
+			"arrow-l",
+			"fui-arrow",
+			"next_pag",
+			"CategorySubPage",
+			"CategoryPager",
+			"CategorySubPage",
+			"site",
 			"#home",
 			"145px",
 			"home",
@@ -969,32 +970,7 @@
 			"course-selection-dropdown",
 			"if(account.type == \"Instructor\") {",
 			"startWaiting",
-			"noty",
-			"reader-view-asset-template",
-			"placeholder-paragraph",
-			"comments-professor-indicator",
-			"{{ if",
-			"{{if",
-			"comment-template",
-			"css",
-			"course-comment-countdown-count",
-			"countdownCountDiv",
-			"courseId",
-			"course-comment-countdown-count",
-			"loadComments",
-			"countdownCountDiv",
-			"getAssetListItem",
-			"coursepack",
-			"coursepac",
-			"flashMessage",
-			"show-login-message",
-			"forgotpassword",
-			"forgotPasswordLink",
-			"forgot-password-link",
-			"linear",
-			".2s",
-			".5s",
-			"signup-mode"
+			"noty"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1002,6 +978,12 @@
 		"regex": false,
 		"replace_history":
 		[
+			"tags",
+			"tag",
+			"Tag",
+			"topic",
+			"Topic",
+			"topic",
 			"span2",
 			"#2041C5",
 			"#2272CF",
@@ -1068,7 +1050,7 @@
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": true,
+		"whole_word": false,
 		"wrap": false
 	},
 	"groups":
@@ -1079,18 +1061,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "about/index.mdown",
 					"settings":
 					{
-						"buffer_size": 766,
+						"buffer_size": 2744,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								113,
-								113
+								68,
+								68
 							]
 						],
 						"settings":
@@ -1139,220 +1121,7 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close"
 							],
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/startup_tags.html",
-					"settings":
-					{
-						"buffer_size": 159,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								159,
-								159
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "about/index.html",
-					"settings":
-					{
-						"buffer_size": 82,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								82,
-								82
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_layouts/default.html",
-					"settings":
-					{
-						"buffer_size": 2339,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								101,
-								101
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1409,6 +1178,118 @@
 		"selected_items":
 		[
 			[
+				"sta",
+				"_includes/startup_tags.html"
+			],
+			[
+				"nav",
+				"_includes/navigation.html"
+			],
+			[
+				"gener",
+				"_plugins/generate_category_pages.rb"
+			],
+			[
+				"confi",
+				"_config.yml"
+			],
+			[
+				"startup",
+				"_includes/startup_tags.html"
+			],
+			[
+				"lifeta",
+				"_includes/life_tags.html"
+			],
+			[
+				"fit",
+				"_posts/2013/2013-5-13-life-with-the-fitbit-flex.mdown"
+			],
+			[
+				"hack",
+				"startups/hacking/index.html"
+			],
+			[
+				"tag",
+				"_layouts/tag_index.html"
+			],
+			[
+				"index",
+				"startups/index.html"
+			],
+			[
+				"categ",
+				"_plugins/generate_category_pages.rb"
+			],
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"about",
+				"about/index.mdown"
+			],
+			[
+				"port",
+				"portfolio/index.html"
+			],
+			[
+				"fitbit",
+				"_posts/2013/2013-5-13-life-with-the-fitbit-flex.mdown"
+			],
+			[
+				"fitbi",
+				"_site/life/2013/05/13/life-with-the-fitbit-flex.html"
+			],
+			[
+				"post",
+				"_layouts/post.html"
+			],
+			[
+				"pos",
+				"_layouts/post.html"
+			],
+			[
+				"ge",
+				"_plugins/generate_category_pages.rb"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"rak",
+				"Rakefile"
+			],
+			[
+				"rakef",
+				"Rakefile"
+			],
+			[
+				"rake",
+				"_layouts/Rakefile"
+			],
+			[
+				"1948",
+				"_posts/2012/2012-7-11-i-just-beat-the-1948-rule.mdown"
+			],
+			[
+				"flatu",
+				"css/flat-ui.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"spectr",
+				"css/spectra.css"
+			],
+			[
+				"_conf",
+				"_config.yml"
+			],
+			[
 				"head",
 				"_includes/head.html"
 			],
@@ -1419,14 +1300,6 @@
 			[
 				"defau",
 				"_layouts/default.html"
-			],
-			[
-				"index",
-				"index.html"
-			],
-			[
-				"about",
-				"about/index.html"
 			],
 			[
 				"lif",
@@ -1449,10 +1322,6 @@
 				"portfolio/index.html"
 			],
 			[
-				"post",
-				"_layouts/post-no-date.html"
-			],
-			[
 				"sideb",
 				"_includes/sidebar.html"
 			],
@@ -1467,10 +1336,6 @@
 			[
 				"navi",
 				"_includes/navigation.html"
-			],
-			[
-				"conf",
-				"_config.yml"
 			],
 			[
 				"great",
@@ -1499,14 +1364,6 @@
 			[
 				"abo",
 				"about/index.html"
-			],
-			[
-				"pos",
-				"_layouts/post-no-date.html"
-			],
-			[
-				"_conf",
-				"_config.yml"
 			],
 			[
 				"schem",
@@ -1603,10 +1460,6 @@
 			[
 				"signu",
 				"ginkgotree/app/views/institution/signup.html.erb"
-			],
-			[
-				"ge",
-				"ginkgotree/Gemfile"
 			],
 			[
 				"applic",
@@ -1835,90 +1688,6 @@
 			[
 				"loader",
 				"javascripts/Loader.js.erb"
-			],
-			[
-				"packetview",
-				"javascripts/PacketView.js.erb"
-			],
-			[
-				"transiti",
-				"ginkgotree/app/assets/stylesheets/transitions.css.scss.erb"
-			],
-			[
-				"login.c",
-				"ginkgotree/app/assets/stylesheets/login.css.scss.erb"
-			],
-			[
-				"pack",
-				"ginkgotree/app/models/packet.rb"
-			],
-			[
-				"mainview",
-				"javascripts/MainView.js.erb"
-			],
-			[
-				"font",
-				"ginkgotree/app/assets/stylesheets/fonts.css.scss.erb"
-			],
-			[
-				"geome",
-				"ginkgotree/app/assets/stylesheets/geometry.css.scss.erb"
-			],
-			[
-				"logincon",
-				"ginkgotree/app/controllers/login_controller.rb"
-			],
-			[
-				"payment/ind",
-				"ginkgotree/app/views/payment/index.html.erb"
-			],
-			[
-				"paymen",
-				"ginkgotree/app/controllers/payment_controller.rb"
-			],
-			[
-				"gem",
-				"ginkgotree/Gemfile"
-			],
-			[
-				"studentrec",
-				"ginkgotree/app/views/user_mailer/student_receipt.html.erb"
-			],
-			[
-				"assetcon",
-				"ginkgotree/app/controllers/asset_controller.rb"
-			],
-			[
-				"payme",
-				"ginkgotree/app/assets/javascripts/payment.js.erb"
-			],
-			[
-				"cour",
-				"ginkgotree/app/controllers/course_controller.rb"
-			],
-			[
-				"coursecre",
-				"ginkgotree/app/assets/stylesheets/coursecreator.css.scss.erb"
-			],
-			[
-				"usermai",
-				"ginkgotree/app/mailers/user_mailer.rb"
-			],
-			[
-				"course",
-				"ginkgotree/app/controllers/course_controller.rb"
-			],
-			[
-				"coursec",
-				"ginkgotree/app/controllers/course_controller.rb"
-			],
-			[
-				"logi",
-				"ginkgotree/app/models/login.rb"
-			],
-			[
-				"packetcont",
-				"ginkgotree/app/controllers/packet_controller.rb"
 			]
 		],
 		"width": 0.0
