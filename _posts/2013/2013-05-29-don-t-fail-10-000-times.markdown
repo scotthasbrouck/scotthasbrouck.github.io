@@ -1,0 +1,17 @@
+---
+layout: post
+comments: true
+published: false
+title: Don't Fail 10,000 Times
+date: '2013-05-29 22:35:12'
+tags: [strategy]
+category: 'startups'
+---
+
+I've lost track counting the number of times I've heard someone quote Thomas Edison, "I didn't fail X times at making a lightbulb, I learned X ways to not make a lightbulb." With X being some number picked out of a hat, usually between 700 and 3000. Today it was 800. Never heard that one before.
+
+This quote always makes me cringe inside a little. Not because of the quote itself, or even that the number is never consistent. But that the *real* leasons to be learned from Edison are extremley applicable to startups and not evident in this quote by itself. There is so much more to the story of Thomas Edison and the lightbulb than just the number of "failures."
+
+Edison was not the first person to invent what could be considered a light bulb. You see, most materials we interact with every day (including the thousands of materials Edison tried in his attempt to commercialize the lightbulb), are considered [Black Body radiators](http://en.wikipedia.org/wiki/Black_body). It had long been known that when an ample amount of electric current is run through a material with enough of an electrical resistance, it would first begin to heat up, and then glow red, then orange, then yellow, and finally white, if the temperature was hot enough (I should add, this applies regardless of *how* you heat the material... but since we're interested in electric light here). Scientists did not yet understand this behaivior in the 1800's, and it was in fact the crux of a problem known as the [Ultraviolet catastrophe](http://en.wikipedia.org/wiki/Ultraviolet_catastrophe), which then lead to modern quantum theory. But let's not get into that for this story though.
+
+The take-away message for Edison was clear. If he wanted to find a commercially viable solution for a filament, he wouldn't be able to understand the properties of the material he was looking for with scientific understanding of the day. Thus the method that is now commonly known as the **Edisonian approach** was enacted: brute force, trial and error discovery. The goal was to find a substance that would not deteriorate when operated at high temperatures for long hours, and had just the right amount of electrical resistance to draw a reasonable amount of current. In reality, Edison and his team tried over 10,000 different materials as the filament in a light bulb. 

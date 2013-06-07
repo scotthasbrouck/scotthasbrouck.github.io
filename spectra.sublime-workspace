@@ -531,7 +531,15 @@
 			"file": "_posts/2013/2013-05-27-life-with-the-fitbit-flex-week-3.markdown",
 			"settings":
 			{
-				"buffer_size": 161,
+				"buffer_size": 3594,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2013/2013-04-29-loss-of-signal-on-the-dark-side.mdown",
+			"settings":
+			{
+				"buffer_size": 4616,
 				"line_ending": "Unix"
 			}
 		}
@@ -697,6 +705,11 @@
 	"file_history":
 	[
 		"/Users/scott/Sites/spectra/_posts/2013/2013-5-13-life-with-the-fitbit-flex.mdown",
+		"/Users/scott/Sites/spectra/css/spectra.css",
+		"/Users/scott/Sites/spectra/_layouts/category_index.html",
+		"/Users/scott/Sites/spectra/_layouts/post.html",
+		"/Users/scott/Sites/spectra/_layouts/post-no-date.html",
+		"/Users/scott/Sites/spectra/_includes/sidebar.html",
 		"/Users/scott/Sites/spectra/Rakefile",
 		"/Users/scott/Sites/spectra/_posts/2013-05-27-life-with-the-fitbit-flex-week-3.markdown",
 		"/Users/scott/Sites/spectra/_posts/2013-05-26-life-with-the-fitbit-flex-week-3.markdown",
@@ -818,12 +831,7 @@
 		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/LightBox.js.erb",
 		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/Tour.js.erb",
 		"/Users/scott/Sites/ginkgotree/app/assets/stylesheets/assetview.css.scss.erb",
-		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/Dropdown.js.erb",
-		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/PacketView.js.erb",
-		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/LoginView.js.erb",
-		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/CourseView.js.erb",
-		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/AssetCreator.js.erb",
-		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/ReaderView.js.erb"
+		"/Users/scott/Sites/ginkgotree/app/assets/javascripts/Dropdown.js.erb"
 	],
 	"find":
 	{
@@ -1064,7 +1072,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -1142,15 +1150,85 @@
 					"file": "_posts/2013/2013-05-27-life-with-the-fitbit-flex-week-3.markdown",
 					"settings":
 					{
-						"buffer_size": 161,
+						"buffer_size": 3594,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								161,
-								161
+								821,
+								821
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 41.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2013/2013-04-29-loss-of-signal-on-the-dark-side.mdown",
+					"settings":
+					{
+						"buffer_size": 4616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1063,
+								1063
 							]
 						],
 						"settings":
@@ -1256,6 +1334,34 @@
 		"selected_items":
 		[
 			[
+				"darks",
+				"_posts/2013/2013-04-29-loss-of-signal-on-the-dark-side.mdown"
+			],
+			[
+				"post",
+				"_layouts/post-no-date.html"
+			],
+			[
+				"spe",
+				"css/spectra.css"
+			],
+			[
+				"spect",
+				"css/spectra.css"
+			],
+			[
+				"side",
+				"_includes/sidebar.html"
+			],
+			[
+				"pos",
+				"_layouts/post.html"
+			],
+			[
+				"fitb",
+				"_posts/2013/2013-5-13-life-with-the-fitbit-flex.mdown"
+			],
+			[
 				"fitbi",
 				"_posts/2013/2013-5-13-life-with-the-fitbit-flex.mdown"
 			],
@@ -1324,14 +1430,6 @@
 				"_posts/2013/2013-5-13-life-with-the-fitbit-flex.mdown"
 			],
 			[
-				"post",
-				"_layouts/post.html"
-			],
-			[
-				"pos",
-				"_layouts/post.html"
-			],
-			[
 				"ge",
 				"_plugins/generate_category_pages.rb"
 			],
@@ -1390,10 +1488,6 @@
 			[
 				"spec",
 				"css/spectra.css"
-			],
-			[
-				"side",
-				"_includes/sidebar.html"
 			],
 			[
 				"portf",
@@ -1750,22 +1844,6 @@
 			[
 				"deploy",
 				"ginkgotree/config/deploy.rb"
-			],
-			[
-				"headerbar",
-				"javascripts/HeaderBar.js.erb"
-			],
-			[
-				"upload",
-				"ginkgotree/app/assets/stylesheets/uploadbox.css.scss.erb"
-			],
-			[
-				"coursecreator",
-				"javascripts/CourseCreator.js.erb"
-			],
-			[
-				"loader",
-				"javascripts/Loader.js.erb"
 			]
 		],
 		"width": 0.0
