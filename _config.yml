@@ -4,3 +4,4 @@ url: "http://spectra.io"
 paginate: 5
 category_title_prefix: 'on '
 tag_title_prefix: 'on '
+safe: false
