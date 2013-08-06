@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Three Unexpected Responsibilities that Hit After VC Funding
-date: '2013-06-21 20:53:55'
+date: '2013-08-05 20:53:55'
 tags: [strategy, funding]
 category: 'startups'
 ---
